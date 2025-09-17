@@ -1,0 +1,5 @@
+msgid "%s that we recommend"
+msgstr "%s que nous recommandons"
+
+msgid "View %s"
+msgstr "Voir %s"
